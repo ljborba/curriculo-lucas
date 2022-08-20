@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+
+body {
+    width: 50%;
+    margin: auto;
+    font-size: 1.2rem;
+}
+
+header li {
+    list-style: none;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    align-self: center;
+}
+
+h2 {
+    align-self: center;
+    text-decoration: underline;
+}
+
+footer p {
+    color: rgba(0, 0, 0, 0.5);
+}
